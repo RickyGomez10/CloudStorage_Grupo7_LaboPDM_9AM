@@ -21,3 +21,12 @@ body{
     padding:0;
 
 }
+.ContenedorInfo{
+    background-color: #ffffff;
+    margin: 10rem;
+    padding: 3rem;
+    box-shadow: 0px 10px 5px #cbcbcb;
+    border-radius: 5px 5px 5px 5px;
+
+
+}
