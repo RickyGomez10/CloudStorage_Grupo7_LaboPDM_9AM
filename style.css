@@ -1,0 +1,23 @@
+nav{
+    background-color: #ffffff;
+    margin: 0;
+    padding: 0;
+    box-shadow: 0px 5px 5px #cbcbcb;
+}
+h3{
+    display: flex;
+    flex-direction: column;
+    color:black;
+    margin: 0;
+    height: 10rem;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+
+}
+body{
+    background-color: #dff9fb;
+    margin: 0;
+    padding:0;
+
+}
